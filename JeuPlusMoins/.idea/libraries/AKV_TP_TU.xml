@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AKV-TP-TU">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AKV-TP-TU.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
